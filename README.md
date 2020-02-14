@@ -42,3 +42,7 @@ Sunshine!
 	http://openwrt.org
 
 https://lede-project.org/docs/guide-developer/use-buildsystem
+
+## Patchs for Compilation Under Ubuntu 18.04 64 bit
+
+https://www.jianshu.com/p/976753126ca4
